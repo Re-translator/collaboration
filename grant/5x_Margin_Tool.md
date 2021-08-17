@@ -51,4 +51,5 @@ Ability to add collateral to a position;
 Development of platform for trading with different leverages;  
 Integration of 2 simple strategies: buy/long and sell/short
 
-
+### Requested amoount
+The requesed amount for grant is: 30000 USD.
